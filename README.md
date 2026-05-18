@@ -45,11 +45,11 @@ This project simulates a real-world e-commerce analytics pipeline - from raw tra
 
 ## Key Insights
 
-Electronics is the top-grossing category contributing the highest share of total revenue
-Repeat buyer retention rate exceeds 60%, indicating strong customer loyalty
-Weekend orders generate higher average revenue compared to weekdays
-Discounts beyond 20% show diminishing returns on revenue
-The North region leads in both order volume and total revenue
-UPI and Credit Card are the most preferred payment methods
+- Electronics is the top-grossing category contributing the highest share of total revenue
+- Repeat buyer retention rate exceeds 60%, indicating strong customer loyalty
+- Weekend orders generate higher average revenue compared to weekdays
+- Discounts beyond 20% show diminishing returns on revenue
+- The North region leads in both order volume and total revenue
+- UPI and Credit Card are the most preferred payment methods
 
 
